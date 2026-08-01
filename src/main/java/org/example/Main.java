@@ -9,5 +9,6 @@ public class Main {
         ac.deposite(500.00);
         System.out.println("Account holder:"+ac.getAccountHolder());
         System.out.println("Current balance"+ac.getBalance());
+        System.out.println("Project ended");
     }
 }
